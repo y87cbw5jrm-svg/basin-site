@@ -3,7 +3,8 @@
 A market dynamics observatory for the S&P 1500 and the S&P International 700 (the
 S&P Global 1200 outside the US): attractors and flow, renormalization, information
 and transfer entropy, regimes, early warnings, CEO backgrounds, and shovel-seller
-and trend filters with point-in-time backtests.
+and trend filters with point-in-time backtests. An Evidence page says how each filter
+and signal did when tested, and a Plain language page unfolds every term into everyday words.
 
 Open the site: https://y87cbw5jrm-svg.github.io/basin-site/
 
