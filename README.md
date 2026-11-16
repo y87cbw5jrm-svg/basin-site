@@ -1,7 +1,8 @@
 # Basin
 
 A market dynamics observatory for the S&P 1500 and the S&P International 700 (the
-S&P Global 1200 outside the US): attractors and flow, renormalization, information
+S&P Global 1200 outside the US): attractors and flow, renormalization, rough path theory
+(paths on manifolds, flow matching, differential equations), information
 and transfer entropy, regimes, early warnings, CEO backgrounds, and shovel-seller
 and trend filters with point-in-time backtests. An Evidence page says how each filter
 and signal did when tested, and a Plain language page unfolds every term into everyday words.
